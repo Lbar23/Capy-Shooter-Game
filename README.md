@@ -45,13 +45,8 @@
 - The tilemap includes obstacles such as trees and rocks that Capy must navigate around.
 
 
-## Installation & Setup
-1. Clone the repository:
-   ```sh
-   git clone https://github.com/your-repo/capys-christmas-nightmare.git
-   cd capys-christmas-nightmare
-   ```
-2. Run the game:
+## Setup
+Run the game:
    ```sh
    python main.py
    ```
